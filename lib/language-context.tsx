@@ -333,8 +333,8 @@ const translations: Record<Language, Record<string, string>> = {
     followUs: "تابعنا",
     allRightsReserved: "جميع الحقوق محفوظة.",
     phone: "هاتف: ٠٠٩٦٣٤١٢٥٥٤٨٩٩",
-    mobile: "موبايل: ٠٠٩٦٣٩٩٢٢٦٢٠٠",
-    fax: "فاكس: ٠٠٩٦٣٤١٢٥٥٠٢٩٩",
+    mobile: "موبايل: ٠٠٩٦٣٩٩٢٧٦٢٠٠",
+    fax: "فاكس: ٠٠٩٦٣٤١٢٥٥٠٦٩٩",
     addressFooter: "سوريا - اللاذقية - الصليبة شارع بور سعيد",
 
     // About Page

@@ -64,11 +64,11 @@ interface DataContextType {
 
 const defaultSettings: SiteSettings = {
   siteName: "HARTNA COMPANY",
-  siteNameAr: "شركة هارتنا",
+  siteNameAr: "شركة حارتنا",
   tagline: "Premium Espresso & Coffee Machines",
   taglineAr: "آلات إسبريسو وقهوة فاخرة",
   phone: "00963412554899",
-  email: "hartna111@gmail.com",
+  email: "info@hartna-co.com",
   address: "Syria - Lattakia, Port Said Street",
   facebook: "",
   instagram: "",
