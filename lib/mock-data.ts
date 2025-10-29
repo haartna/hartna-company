@@ -181,7 +181,7 @@ export const products: Product[] = [
     description: "Professional espresso grinder with precision burrs",
     descriptionAr: "مطحنة إسبريسو احترافية مع شفرات دقيقة",
     price: 599,
-    image: "/CUNCILL BRASIL.png",
+    image: "/CUNCILL BRASIL.jpg",
     category: "coffee-grinder",
     subcategory: "espresso",
     featured: false,
